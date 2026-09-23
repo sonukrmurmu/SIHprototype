@@ -1,0 +1,25 @@
+# Build outputs and Android IDE files
+*.iml
+.gradle
+/local.properties
+local.properties
+.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# AI Model Files, Quantized Binary Weights & Tokenizers
+*.bin
+*.onnx
+*.onnx.json
+*.SRC
+*.TGT
+shared_vocabulary.json
+tokens.txt
+espeak-ng-data/
+dictionary.db
+
+# Preserve directory structures via .gitkeep
+!/**/.gitkeep

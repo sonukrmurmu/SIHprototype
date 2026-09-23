@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IndicT</string>
+
+    <string-array name="language_options">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Santali</item>
+    </string-array>
+
+    <string-array name="accuracy_options">
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+</resources>
