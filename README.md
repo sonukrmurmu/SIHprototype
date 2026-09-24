@@ -8,7 +8,7 @@ Built for low-latency, edge-device AI execution, IndicT operates completely with
 
 ## Key Features
 
-- **100% Offline AI Execution**: All translation, speech recognition (ASR), and speech synthesis (TTS) models run locally on-device. Zero data leaves your phone.
+- **100% Offline AI Execution**: All translations, speech recognition (ASR), and speech synthesis (TTS) models run locally on-device. Zero data leaves your phone.
 - **Bi-Directional Multi-Language Support**:
   - English $\leftrightarrow$ Hindi
   - English $\leftrightarrow$ Santali (Ol Chiki)
@@ -35,7 +35,7 @@ Built for low-latency, edge-device AI execution, IndicT operates completely with
 
 ---
 
-## Detailed Documentation Breakdown
+## Detailed Documentation Breakdown:
 
 For in-depth technical documentation, please refer to the following dedicated manuals:
 
